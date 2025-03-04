@@ -21,6 +21,21 @@ community
 public
 hybrid
 
+2. Essential Characterstics :
+
+- on-demand self-service: ability to create IT resources sa compute,storage urslef without need to interact with other humans to do the work
+
+- broad network access: Cloud resources are avail to us over a network and are accessible through standard protocols
+
+- resource pooling: The cloud resources are avail to us over a network and accessible through stand protocols.
+
+- rapid elasticity: Enables allocate and release the resources according to need so that no resource is idol
+
+- measured service: The cloud providers has automated systems to provide transparent billing details about the cloud resources you are consuming
+Allowing you , as the customer to have monitoring and reporting capabilities of the Cloud Resources
+
+
+
 
 
 
