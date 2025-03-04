@@ -1,3 +1,26 @@
 1. What is Cloud Computing ?
-- Cloud Computing enables convinient ,remote, On-Demand Access to a shared pool of computing resources
-and services
+- Cloud Computing enables convinient ,remote, On-Demand Access to a shared pool of computing resources and services
+- On-Demand Delivery of IT resources over internet (internet not true with inpremises clouds) with pay-as-you-go pricing
+- AWS Def
+    CC is the on-demand delivery of IT resources over the internet with pay-as-you-gp pricing. Instead of buying,owning and maintaining physical data centers and servers, you can access technology services sa computing power,storage and databases on an as-needed basis from a cloud provider like AWS
+- NIST Def (National institure of standards and tech)
+    CC is a model for enabling ubiquitous, convinent , on-demand network access to a shared pool of configurable computing resources that can be rapidly provisioned and released with minimal management effort or servie provider interaction, this cloud model is composed of five essential characterstics,three servie models, and four deployment models
+essential char :
+- on-demand
+-broad network access
+-resource
+-rapid elasticity
+-measured service
+service models :
+-software SAAS
+-Platform PAAS
+-Infra IAAS
+deployment models :
+private
+community
+public
+hybrid
+
+
+
+
