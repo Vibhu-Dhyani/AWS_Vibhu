@@ -86,11 +86,32 @@ Guest OS            Guest OS                   pro
 Virtualisation      Virtualisation (Pro)       pro
 -----
 mem cpu net disks   mem cpu net disks (Pro)    pro
-
-your res
-
+all your responsibility
 
 
+- Benifits of Privat Cloud
+    - Control
+    - Cost
+    - Hardware Choice
+    - software Licenses:
+        - Hardware based
+        - hardware locked
+    - Security
+
+- Public Cloud :
+    - Infinity Scalability
+    - Cost Savings
+    - Speed
+    - Global Capability
+
+- Hybrid Cloud : 
+    - Use existing infrastructure of on-premises
+    - cost savings
+    - security requiements
+
+
+
+ 
 
 
 
