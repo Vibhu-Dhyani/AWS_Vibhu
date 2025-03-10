@@ -103,6 +103,7 @@ all your responsibility
     - Cost Savings
     - Speed
     - Global Capability
+    - Security
 
 - Hybrid Cloud : 
     - Use existing infrastructure of on-premises
@@ -110,8 +111,47 @@ all your responsibility
     - security requiements
 
 
+- 6 Benifits of AWS
+- Security
+- Availability
+- Performance
+- Scalability
+- Global Footprint
+- Flexibility
 
+ Domain 1
+Benifits of cc
+01- Trade capital Expenses for Variable Expenses shift from capex to opex
+02 - Benifit from massive economies of scale
+03 - Stop Guessing Capacity
+04 - Increase speed and Agility
+05 - Stop spending money running data centers
+06 - Go global in minutes
+
+Security Benefits : 
+01 - Keep your data safe
+02 - meet complaince requirement
+03 - save money
+04 - Scale quickly
+
+
+AWS Relaibility Benifits
+
+AWS High Availability
+
+Elasticity Benifits :
+A scalable workload provides elasticity to add or remove resources automatically so that they closely match the current demand at any given point of time
+
+Agility Benifits AWS
+The cloud gives you easy access to a broad range of tech so that you can innovate faster and build newarly anything that yiu can imagine. You can quicly spin up resources as you need them from infra to internet of things ML ,DLS
+
+Scalability Benifits of AWS
  
+
+
+
+
+
 
 
 
